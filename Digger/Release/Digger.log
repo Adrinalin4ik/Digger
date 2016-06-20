@@ -1,0 +1,52 @@
+﻿Построение начато 08.01.2016 23:12:21.
+     1>Проект "D:\Программы С++\Digger\Digger\Digger.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Release\Digger.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\SFML-2.0\include" /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D SFML_STATIC /D _MBCS /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(169): warning C4305: =: усечение из "double" к "float"
+     1>main.cpp(175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(251): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>main.cpp(272): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(273): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(282): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(347): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(348): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>main.cpp(355): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(359): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(419): warning C4305: =: усечение из "double" к "float"
+     1>main.cpp(421): warning C4305: =: усечение из "double" к "float"
+     1>main.cpp(474): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(474): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(475): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(475): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(525): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+     1>main.cpp(755): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(755): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(765): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>main.cpp(384): warning C4101: menuCall: неиспользованная локальная переменная
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Программы С++\Digger\Release\Digger.exe" /NOLOGO /LIBPATH:"D:\SFML-2.0\lib" "sfml-graphics-s.lib" "sfml-window-s.lib" "sfml-system-s.lib" "sfml-audio-s.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\Digger.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Программы С++\Digger\Release\Digger.pdb" /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Программы С++\Digger\Release\Digger.lib" /MACHINE:X86 Release\main.obj
+         Создание кода
+         Создание кода завершено
+         Digger.vcxproj -> D:\Программы С++\Digger\Release\Digger.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Программы С++\Digger\Release\Digger.exe;#1" /manifest Release\Digger.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Release\Digger.unsuccessfulbuild" удаляется.
+         Обращение к "Release\Digger.lastbuildstate".
+     1>Построение проекта "D:\Программы С++\Digger\Digger\Digger.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:01.49

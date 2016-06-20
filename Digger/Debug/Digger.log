@@ -1,0 +1,101 @@
+﻿Построение начато 08.01.2016 22:41:49.
+     1>Проект "D:\Программы С++\Digger\Digger\Digger.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Обращение к "Debug\Digger.unsuccessfulbuild".
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\SFML-2.0\include" /ZI /nologo /W3 /WX- /Od /Oy- /D SFML_STATIC /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>d:\программы с++\digger\digger\main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(167): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(169): warning C4305: =: усечение из "double" к "float"
+     1>d:\программы с++\digger\digger\main.cpp(175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(175): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(181): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(251): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(272): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(273): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(282): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(347): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(348): warning C4244: инициализация: преобразование "float" в "int", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(355): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(359): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(419): warning C4305: =: усечение из "double" к "float"
+     1>d:\программы с++\digger\digger\main.cpp(421): warning C4305: =: усечение из "double" к "float"
+     1>d:\программы с++\digger\digger\main.cpp(475): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(475): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(476): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(476): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(529): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(759): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(759): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(769): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+     1>d:\программы с++\digger\digger\main.cpp(384): warning C4101: menuCall: неиспользованная локальная переменная
+     1>d:\программы с++\digger\digger\main.cpp(517): warning C4700: использована неинициализированная локальная переменная "y2"
+     1>d:\программы с++\digger\digger\main.cpp(517): warning C4700: использована неинициализированная локальная переменная "x2"
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Программы С++\Digger\Debug\Digger.exe" /NOLOGO /LIBPATH:"D:\SFML-2.0\lib" "sfml-graphics-s-d.lib" "sfml-window-s-d.lib" "sfml-system-s-d.lib" "sfml-audio-s-d.lib" kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Digger.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Программы С++\Digger\Debug\Digger.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Программы С++\Digger\Debug\Digger.lib" /MACHINE:X86 Debug\main.obj
+     1>sfml-graphics-s-d.lib(Color.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Color.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Font.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Font.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(GLCheck.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(GLCheck.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Image.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Image.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(ImageLoader.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(ImageLoader.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(RenderStates.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(RenderStates.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(RenderTarget.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(RenderTarget.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(RenderWindow.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(RenderWindow.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Shader.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Shader.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Texture.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Texture.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(TextureSaver.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(TextureSaver.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Transform.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Transform.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Transformable.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Transformable.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(View.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(View.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Vertex.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Vertex.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Sprite.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Sprite.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(Text.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(Text.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-graphics-s-d.lib(VertexArray.cpp.obj) : warning LNK4099: "sfml-graphics-s-d.pdb" PDB не найден с "sfml-graphics-s-d.lib(VertexArray.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-graphics-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(GlContext.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(GlContext.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(GlResource.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(GlResource.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(JoystickManager.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(JoystickManager.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(Keyboard.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(Keyboard.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(Mouse.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(Mouse.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(VideoMode.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(VideoMode.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(Window.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(Window.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(WindowImpl.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(WindowImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(WglContext.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(WglContext.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(InputImpl.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(InputImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(JoystickImpl.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(JoystickImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(VideoModeImpl.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(VideoModeImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-window-s-d.lib(WindowImplWin32.cpp.obj) : warning LNK4099: "sfml-window-s-d.pdb" PDB не найден с "sfml-window-s-d.lib(WindowImplWin32.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-window-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(Clock.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(Clock.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(Err.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(Err.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(Lock.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(Lock.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(Mutex.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(Mutex.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(Sleep.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(Sleep.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(String.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(String.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(ThreadLocal.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(ThreadLocal.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(Time.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(Time.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(ClockImpl.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(ClockImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(MutexImpl.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(MutexImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(SleepImpl.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(SleepImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj) : warning LNK4099: "sfml-system-s-d.pdb" PDB не найден с "sfml-system-s-d.lib(ThreadLocalImpl.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-system-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-audio-s-d.lib(ALCheck.cpp.obj) : warning LNK4099: "sfml-audio-s-d.pdb" PDB не найден с "sfml-audio-s-d.lib(ALCheck.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-audio-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-audio-s-d.lib(AudioDevice.cpp.obj) : warning LNK4099: "sfml-audio-s-d.pdb" PDB не найден с "sfml-audio-s-d.lib(AudioDevice.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-audio-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-audio-s-d.lib(Sound.cpp.obj) : warning LNK4099: "sfml-audio-s-d.pdb" PDB не найден с "sfml-audio-s-d.lib(Sound.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-audio-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-audio-s-d.lib(SoundBuffer.cpp.obj) : warning LNK4099: "sfml-audio-s-d.pdb" PDB не найден с "sfml-audio-s-d.lib(SoundBuffer.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-audio-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-audio-s-d.lib(SoundFile.cpp.obj) : warning LNK4099: "sfml-audio-s-d.pdb" PDB не найден с "sfml-audio-s-d.lib(SoundFile.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-audio-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+     1>sfml-audio-s-d.lib(SoundSource.cpp.obj) : warning LNK4099: "sfml-audio-s-d.pdb" PDB не найден с "sfml-audio-s-d.lib(SoundSource.cpp.obj)" или на "D:\Программы С++\Digger\Debug\sfml-audio-s-d.pdb"; компоновка объекта выполняется как при отсутствии отладочных данных
+         Digger.vcxproj -> D:\Программы С++\Digger\Debug\Digger.exe
+       Manifest:
+         c:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"D:\Программы С++\Digger\Debug\Digger.exe;#1" /manifest Debug\Digger.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Файл "Debug\Digger.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\Digger.lastbuildstate".
+     1>Построение проекта "D:\Программы С++\Digger\Digger\Digger.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:04.23
